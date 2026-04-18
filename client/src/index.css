@@ -1,0 +1,7 @@
+/* Очищено для уникнення конфліктів із дефолтними стилями Vite */
+body {
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #ffffff;
+}
